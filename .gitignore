@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Data is too large
-Image-Data/
+# Image-Data/
 
 # Distribution / packaging
 .Python
