@@ -12,6 +12,10 @@ __pycache__/
 # Checkpoints
 *.ipynb_checkpoints
 
+# Tune#2's Saved Model and Weights
+model_tune2.hdf5
+weights_tune2.hdf5
+
 # Distribution / packaging
 .Python
 build/
