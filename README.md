@@ -1,7 +1,7 @@
 # Pneumonia-Detection
 Detecting if a patient has pneumonia or not, in an chest-x-ray, using image classification. This information will make it easier for the machine to spot a possible threat, where a Doctor, maybe, can not.
 
-<img src="person100_bacteria_478.jpeg">
+<img src="Image-Data/person100_bacteria_478.jpeg">
 
 ## Content Summary
 - [Data](https://github.com/jeffersonzaki/Pneumonia-Detection/tree/master/Image-Data) - Filled with two classes of Chest X-rays, Chest X-rays with a normal scan, and Chest X-rays with Pneumonia
